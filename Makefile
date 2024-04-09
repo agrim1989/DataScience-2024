@@ -20,4 +20,4 @@ format:
 	black *.py
 
 test:
-	python -m pytest --nbval data_science_nb.ipynb
+	python -m pytest --nbval nootbook.ipynb
